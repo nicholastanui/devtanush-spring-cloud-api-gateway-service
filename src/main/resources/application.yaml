@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: devtanush-spring-cloud-api-gateway-service
+
+server:
+  port: ${port:8900}
